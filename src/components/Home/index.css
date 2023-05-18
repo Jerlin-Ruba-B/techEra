@@ -1,0 +1,46 @@
+.heading {
+  color: #1e293b;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 8px;
+}
+.CourseContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  width: 400px;
+  height: 400px;
+  margin: 8px;
+}
+.failure-title {
+  color: #475569;
+  font-size: 32px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.failure-desc {
+  color: #64748b;
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+.retry-btn {
+  background-color: #4656a1;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding: 8px;
+  border-width: 0px;
+}
+.unorderedCoursesList {
+  display: flex;
+  flex-wrap: wrap;
+}

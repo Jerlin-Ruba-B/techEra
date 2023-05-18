@@ -1,0 +1,23 @@
+.not-found-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notFoundmg {
+  width: 200px;
+  height: 180px;
+  margin: 12px;
+}
+.nf-title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+}
+.nf-desc {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+}

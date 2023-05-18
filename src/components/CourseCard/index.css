@@ -1,0 +1,19 @@
+.cardList {
+  list-style-type: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+}
+.course-logo {
+  width: 120px;
+  height: 90px;
+  margin-right: 12px;
+}
+.name {
+  color: #1e293b;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
